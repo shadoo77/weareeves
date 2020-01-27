@@ -1,0 +1,12 @@
+export const GET_TODOS = "GET_TODOS";
+export const ADD_TODO = "ADD_TODO";
+export const UPDATE_TODO = "UPDATE_TODO";
+export const DELETE_TODO = "DELETE_TODO";
+export const TOGGLE_DONE = "TOGGLE_DONE";
+export const MARK_TODOS_AS_DONE = "MARK_TODOS_AS_DONE";
+export const MARK_TODOS_AS_NOT_DONE = "MARK_TODOS_AS_NOT_DONE";
+export const ACTION_LOADING = "ACTION_LOADING";
+export const ACTION_FAILED = "ACTION_FAILED";
+
+export const CHANGE_SEARCH_TEXT = "CHANGE_SEARCH_TEXT";
+export const CHECKED_ITEMS = "CHECKED_ITEMS";
